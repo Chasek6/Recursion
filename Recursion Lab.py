@@ -5,12 +5,11 @@
 
 
 
-
+  
 #Import math for accessing built-in mathematical functions.
 import math
 # We use "import math" to access mathematical functions and constants.which helps simplify and optimize our calculations.
 # This approach makes the code clearer, more concise, and easier to refactor if needed in larger scale project.
-
 def binomial_coefficient_factorial(n, k):
 
 
